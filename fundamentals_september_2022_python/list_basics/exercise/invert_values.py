@@ -1,22 +1,13 @@
 string_of_numbers = input()
-numbers = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
-reversed_number = 0
-reversed_numbers = []
-for index, char in enumerate(string_of_numbers):
-    if char in numbers:
-        if index < len(string_of_numbers) - 2:
-            if string_of_numbers[index + 1] in numbers:
-                current_number = int(string_of_numbers[index + (index + 1)])
-            else:
-                current_number = int(char)
-        else:
-            current_number = int(char)
-        if string_of_numbers[index - 1] == "-":
-            current_number = -int(char)
-        reversed_number = current_number * -1
-        reversed_numbers.append(reversed_number)
 
-print(reversed_numbers)
+list_of_numbers = string_of_numbers.split(' ')
+reversed_list_of_numbers = []
+
+for index in range(len(list_of_numbers)):
+    number = int(list_of_numbers[index]) * -1
+    reversed_list_of_numbers.append(number)
+
+print(reversed_list_of_numbers)
 
 """
                                             PROBLEM DESCRIPTION !
