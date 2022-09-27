@@ -7,10 +7,6 @@
 
 * labs - easiest
 * exercise - more complex 
-* more exercise or extra exercise - most complex
+* extra - most complex
 
 ### Each division has a condition document or it is commented out in the code !
-
-
-
-![SOFTUNI](/Users/mariolekov/Documents/GitHub/softuni.png)
