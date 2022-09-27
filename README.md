@@ -10,3 +10,4 @@
 * extra - most complex
 
 ### Each division has a condition document or it is commented out in the code !
+![alt text](softuni.png)
