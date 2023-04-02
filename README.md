@@ -15,6 +15,6 @@
 * Exercise 
 * Extra Exercise 
 
-- ["SoftUni-Judge-system"](https://judge.softuni.org)
+- ["SoftUni-Judge-System"](https://judge.softuni.org)
 
 <!-- ![alt text](softuni.png) -->
