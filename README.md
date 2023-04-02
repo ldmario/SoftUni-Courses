@@ -9,11 +9,10 @@
  - ["SoftUni Fundamentals - Python Certificate"](https://softuni.bg/certificates/details/148946/4ad542ea "SoftUni Fundamentals Certificate")
  - ["SoftUni Advanced - Python Certificate"](https://softuni.bg/certificates/details/159560/a4f58163 "SoftUni Advanced Certificate")
 
-### Every course has a different topics. Some of the lectures has three divisions of complexity, some of them has two:
+### Every course have a various topics. Some of the lectures have three divisions of complexity, some of them have two:
 
 * Labs
 * Exercise 
-
 * Extra Exercise 
 
 - ["SoftUni-Judge-system"](https://judge.softuni.org)
