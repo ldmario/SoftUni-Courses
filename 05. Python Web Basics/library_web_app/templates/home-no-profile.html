@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block content %}
+     <!-- No Profile Page -->
+        <section id="register-page" class="register">
+            <form id="register-form" action="{% url 'home_page' %}" method="post">
+                <fieldset>
+                    <legend>Profile Form</legend>
+                    {{ profile_form }}
+                    <input class="button submit" type="submit" value="Enter">
+                </fieldset>
+                {% csrf_token %}
+            </form>
+        </section>
+{% endblock %}
